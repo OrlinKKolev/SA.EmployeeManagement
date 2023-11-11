@@ -1,0 +1,5 @@
+Id,Name,StartDate,EndDate,Department,Role,Salary,isFired
+123,Orlin,2022-12-12,null,MANAGEMENT,CTO,1234.0,false
+55,Silvia,2024-01-01,null,HR,Recruiuter,5532.0,false
+32,Gencho,2023-12-12,2024-01-03,IT,Junior DevOps,432.0,true
+44,Genady,2016-01-12,null,IT,Junior Front-End,3432.0,false
